@@ -14,4 +14,8 @@ Our group undertakes a wide array of activities, including:
 - **Drug Susceptibility Testing**: Evaluating antiviral resistance to support treatment protocols.
 - **Development of New Detection Methods**: Innovating molecular techniques for enhanced sensitivity and specificity in virus detection.
 
+## Sample Analysis Workflow
+
+![Pipeline Diagram](https://github.com/PHAC-IRVC-Genomics/.github/blob/main/profile/IRVC_WORKFLOW_2.png)
+
 ---
